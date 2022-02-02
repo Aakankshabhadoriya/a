@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	
+	<title>9xm</title>
+	<!--css link-->
+	<link rel="stylesheet" href="css/9xm.css">
+	<style>
+.a{
+     /*border: 2px solid;*/
+      width: 243px; 
+      height: 300px;
+      float: left;
+      margin: 30px;
+      background-color: white;
+      padding: 0px 0px; 
+      font-size: 10px;
+    }
+     body{
+          background-color: #eaeded;
+     }
+    </style>
+</head>
+<body>
+<!--header div start-->
+<div class="header">
+	<img src="image/9xflix-main.png" class="img">
+</div>
+<!--header div end-->
+
+<!--menu div start-->
+<div class="menu">
+  <a href="9xm.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="team.html">Team</a>
+  <a href="9xm.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="team.html">Team</a>
+  
+</div>
+<!--menu div end-->
+<!--Latest_Movies div start-->
+<div class="Latest_Movies">
+<h3>Latest_Movies</h3>	
+</div>
+<!--Latest Movie div end-->
+<div class="a" style="margin-left: 65px;">
+<img src="image/pic/1.jpg" width="243px" height="260px">
+<center>
+<h2>Cabin Fever – Reboot 2016 UNRATED Dual Audio Hindi 720p 480p BRRip</h2>
+ </center>
+</div>
+<div class="a">
+	<img src="image/pic/4.jpg"height="233px" width="243px">
+	<center>
+          <h2>Cabin Fever – Reboot 2016 UNRATED Dual Audio Hindi 720p 480p BRRip</h2>
+   </center>        
+</div>
+<div class="a">
+	<img src="image/pic/3.jpg"height="260px" width="243px">
+   <center> 
+   	     <h2>Fuddu 2016 Hindi 720p 480p WEB-DL</h2>
+     </center>
+</div>
+<div class="a">
+	<img src="image/pic/2.jpg"height="260px" width="243px">
+    <center>
+    	<h2 >Ucha Pind 2022 Punjabi 720p 480p WEB-DL</h2>
+    </center>   
+</div>
+
+<div class="a" style="margin-left: 65px;">
+<img src="image/pic/1.jpg" height="260px" width="243px">
+<center>
+<h2>Cabin Fever – Reboot 2016 UNRATED Dual Audio Hindi 720p 480p BRRip</h2>
+ </center>
+</div>
+<div class="a">
+  <img src="image/pic/4.jpg"height="260px" width="243px">
+  <center>
+          <h2>Cabin Fever – Reboot 2016 UNRATED Dual Audio Hindi 720p 480p BRRip</h2>
+   </center>        
+</div>
+<div class="a">
+  <img src="image/pic/3.jpg"height="260px" width="243px">
+   <center> 
+         <h2>Fuddu 2016 Hindi 720p 480p WEB-DL</h2>
+     </center>
+</div>
+<div class="a">
+  <img src="image/pic/2.jpg"height="260px" width="243px">
+    <center>
+      <h2 >Ucha Pind 2022 Punjabi 720p 480p WEB-DL</h2>
+    </center>   
+</div>
+
+
+</body>
+</html>
